@@ -1,0 +1,13 @@
+Username	RHT_OCP4_DEV_USER	vnjzxc
+
+Password	RHT_OCP4_DEV_PASSWORD	74dd7aee4b4b4fe2bbd1
+
+API Endpoint	RHT_OCP4_MASTER_API	https://api.na46k.prod.nextcle.com:6443
+
+Console Web Application		https://console-openshift-console.apps.na46k.prod.nextcle.com
+
+Cluster Id		e2d25ffd-eb5d-4f97-90bd-9c521673e903
+
+Github choncba/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
+Quai.io lrbono/Bono.765
+podman login -u="lrbono" -p="ZatZDdvV9IZzn5dIt+wfN/BdgwM9ZpUswTYpv21b3FeyOXZ+db4OVuq9eIsg5s9s" quay.io
